@@ -1,12 +1,6 @@
 import socket
 from socket import *
-import sys
-import socket
-import http.client
-import urllib.parse
-import ssl
-import re
-from datetime import datetime
+import dnslib
 from dnslib import *
 from tkinter import *
 
